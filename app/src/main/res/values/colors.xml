@@ -6,4 +6,9 @@
     <color name="goodGreen2">#00e535</color>
     <color name="someBlack">#000000</color>
     <color name="goodGreen">#00e535</color>
+    <color name="foreground_material_light">#00e535</color>
+    <color name="primary_material_light">#00e535</color>
+    <color name="accent_material_light">#00e535</color>
+
+
 </resources>
